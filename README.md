@@ -18,4 +18,7 @@ Puedes ver el comportamiento del formulario en la siguiente imagen:
 
 <img src="./assets/form.gif">
 
-A programar! 💻
+A programar! 💻. El ejercicio realizado se puede encontrar en la siguiente página: 
+[Links](https://simontoyabe.github.io/ejercicio-formulario-timeout/)
+
+La base de datos está en el archivo baseDeDatos.js
